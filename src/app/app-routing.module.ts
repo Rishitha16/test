@@ -11,15 +11,7 @@ import { TrendingComponent } from './trending/trending.component';
 
 const routes: Routes = [
   {
-    path : "header",
-    component : HeaderComponent
-  },
-  {
-    path : "trending",
-    component : TrendingComponent
-  },
-  {
-    path : "main",
+    path : '',
     component : MainComponent
   },
   {
